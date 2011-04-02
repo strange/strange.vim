@@ -7,6 +7,14 @@ the GUI versions of vim.
 
 http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
+## Screenshots
+
+I added the screenshots directly to the repository. I'll make a separate page
+of it when I get around to it.
+
+![editing an erlang file in vim](./images/erlang.png)
+![editing a python file in vim](./images/python.png)
+
 ## Caveats
 
 There are still a few styles to add and to tweak. I'll add more as styles
