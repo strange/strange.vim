@@ -9,11 +9,8 @@ http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-patho
 
 ## Screenshots
 
-I added the screenshots directly to the repository. I'll make a separate page
-of it when I get around to it.
-
-![editing an erlang file in vim](./images/erlang.png)
-![editing a python file in vim](./images/python.png)
+![editing an erlang file in vim](http://files.pipsq.com/strange.vim/erlang.png)
+![editing a python file in vim](http://files.pipsq.com/strange.vim./python.png)
 
 ## Caveats
 
