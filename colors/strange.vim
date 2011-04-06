@@ -61,7 +61,7 @@ else
     hi ErrorMsg ctermfg=15 guifg=#FFFFFF ctermbg=9 guibg=#FF0000 cterm=none gui=none
     hi Error ctermfg=15 guifg=#FFFFFF ctermbg=9 guibg=#FF0000 cterm=none gui=none
     hi LineNr ctermbg=233 guibg=#151515 ctermfg=239 guifg=#3d464c cterm=none gui=none
-    hi Underlined ctermfg=32 guifg=#0066CC cterm=underline gui=underline
+    hi Underlined ctermfg=32 guifg=#0066CC cterm=none gui=none
     hi Todo ctermfg=142 guifg=#adac4f ctermbg=235 guibg=#252525 cterm=bold
     hi CursorLine ctermbg=233 guibg=#111111 cterm=none gui=none
     hi CursorColumn ctermbg=233 guibg=#111111 cterm=none gui=none
